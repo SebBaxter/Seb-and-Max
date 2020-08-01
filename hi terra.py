@@ -2,4 +2,5 @@ def get_message():
     return "hello world"
 
 def print_message():
-    print(get_message())
+    for i in range(5):
+        print(get_message())
