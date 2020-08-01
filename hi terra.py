@@ -1,5 +1,5 @@
 def get_message():
-    return "hello world"
+    return "Trolling Thunda"
 
 def print_message():
     print(get_message())
