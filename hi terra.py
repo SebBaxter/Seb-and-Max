@@ -2,4 +2,6 @@ def get_message():
     return "Trolling Thunda"
 
 def print_message():
-    print(get_message())
+    for i in range(5):
+        print(get_message())
+
